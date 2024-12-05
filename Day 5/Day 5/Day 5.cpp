@@ -98,10 +98,10 @@ int main()
 {
     for (int i = 1; i <= 6; i++) {
         if (VerifyLine(updates[i - 1])) {
-            cout << "The line " << i << " is OK." << endl;
+            cout << "The update " << i << " is OK." << endl;
         }
         else {
-            cout << "The line " << i << " is not OK" << endl;
+            cout << "The update " << i << " is not OK" << endl;
         }
     }
 }
