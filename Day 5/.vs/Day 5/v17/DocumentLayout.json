@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ludov\\OneDrive\\Bureau\\The advent of code\\cppDay5\\Day 5\\",
+  "WorkspaceRootPath": "C:\\Users\\ludov\\Documents\\GitHub\\cppDay5\\Day 5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{171BA994-1737-437F-ABD0-2FE71B1073FD}|Day 5\\Day 5.vcxproj|C:\\Users\\ludov\\OneDrive\\Bureau\\The advent of code\\cppDay5\\Day 5\\Day 5\\Day 5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{171BA994-1737-437F-ABD0-2FE71B1073FD}|Day 5\\Day 5.vcxproj|C:\\Users\\ludov\\Documents\\GitHub\\cppDay5\\Day 5\\Day 5\\Day 5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{171BA994-1737-437F-ABD0-2FE71B1073FD}|Day 5\\Day 5.vcxproj|solutionrelative:Day 5\\Day 5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -14,21 +14,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Day 5.cpp",
-              "DocumentMoniker": "C:\\Users\\ludov\\OneDrive\\Bureau\\The advent of code\\cppDay5\\Day 5\\Day 5\\Day 5.cpp",
+              "DocumentMoniker": "C:\\Users\\ludov\\Documents\\GitHub\\cppDay5\\Day 5\\Day 5\\Day 5.cpp",
               "RelativeDocumentMoniker": "Day 5\\Day 5.cpp",
-              "ToolTip": "C:\\Users\\ludov\\OneDrive\\Bureau\\The advent of code\\cppDay5\\Day 5\\Day 5\\Day 5.cpp",
+              "ToolTip": "C:\\Users\\ludov\\Documents\\GitHub\\cppDay5\\Day 5\\Day 5\\Day 5.cpp",
               "RelativeToolTip": "Day 5\\Day 5.cpp",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAAGcAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEcAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-05T17:06:43.747Z",
               "EditorCaption": ""
